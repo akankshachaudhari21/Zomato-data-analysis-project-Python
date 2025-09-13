@@ -8,7 +8,9 @@ The goal is to extract insights about restaurants, cuisines, ratings, and cost d
  **Technologies Used**
 
 Python (Pandas, Numpy, Matplotlib, Seaborn)
+
 Jupyter Notebook
+
 Git & GitHub
 
 📂 **Dataset**
